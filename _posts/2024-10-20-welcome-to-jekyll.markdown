@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: 空花梦身
+title:  "欢迎来到我的博客!"
 date:   2024-10-20 22:41:53 +0800
 categories: jekyll update
 ---
